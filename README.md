@@ -1,6 +1,6 @@
-This project entails getting started with gemini using python
+This project entails getting started with Gemini using python
 # This is the link to use "https://ai.google.dev/tutorials/get_started_dart"
-
+# It incorporates how to train your model using Gemini api
 
 
 
